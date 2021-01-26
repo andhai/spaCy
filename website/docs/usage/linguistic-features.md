@@ -39,7 +39,7 @@ by spaCy's models across different languages, see the
 
 Inflectional morphology is the process by which a root form of a word is
 modified by adding prefixes or suffixes that specify its grammatical function
-but do not changes its part-of-speech. We say that a **lemma** (root form) is
+but do not change its part-of-speech. We say that a **lemma** (root form) is
 **inflected** (modified/combined) with one or more **morphological features** to
 create a surface form. Here are some examples:
 
